@@ -51,19 +51,36 @@ namespace hello_world
             //}
 
             //if..else if
-            int value = 0;
-            if(value == 0)
-            {
-                Console.WriteLine("Value is 0");
-            }
-            else if (value == 1)
-            {
-                Console.WriteLine("Value is not 0");
-            }
-            else
-            {
-                Console.WriteLine("Value is something else");
-            }
+            //int value = 0;
+            //if(value == 0)
+            //{
+            //    Console.WriteLine("Value is 0");
+            //}
+            //else if (value == 1)
+            //{
+            //    Console.WriteLine("Value is not 0");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Value is something else");
+            //}
+
+            //switch statement
+            //int value = 0;
+            //switch(value)
+            //{
+            //    case 0:
+            //        Console.WriteLine("Value is 0");
+            //        break;
+
+            //    case 1:
+            //        Console.WriteLine("Value is not 1");
+            //        break;
+
+            //    default:
+            //        Console.WriteLine("Value is something else");
+            //        break;
+            //}
         }
     }
 }
